@@ -19,6 +19,4 @@
 </td>
   </tr>
 </table>
-
-</body>
-</html>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)

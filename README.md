@@ -1,13 +1,13 @@
 # wendev21
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clldphalu001108l3n2nkf8rx/stats?cursusId=21&coalitionId=66" alt="wecorzo-'s 42 stats" /></a>
 ## ✅ 42 ProjectScore Badge!
-<table border="1" style="text-align:center">
+<table border="1">
   <tr>
     <th>Project link 🔗🖥️</th>
     <th>Score</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/wendev21/42Cursus_01libft">Libft📗</a></td>
+    <td><a href="https://github.com/wendev21/42Cursus_01libft" style="text-align:center; color:black">Libft📗</a></td>
     <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clldphalu001108l3n2nkf8rx/project/2932506" alt="wecorzo-'s 42 Libft Score" /></a></td>
   </tr>
   <tr>

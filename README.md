@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clldphalu001108l3n2nkf8rx/stats?cursusId=21&coalitionId=66" alt="wecorzo-'s 42 stats" /></a>
-## ✅ 42 ProjectScore Badge!
+<h2> ✅ 42 ProjectScore Badge! </h2>
 <table border="1">
   <tr>
     <th>Project link 🔗🖥️</th>
@@ -20,5 +20,8 @@
 </td>
   </tr>
 </table>
-<img src="https://github-readme-stats.vercel.app/api?username=wendev21&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
+<a href="https://github.com/wendev21" style="display: flex; align-items: center;justify-content: center; flex-wrap: wrap;">
+	<img align="top" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wendev21&layout=compact" />
+	</a>
+</a>
 </div>

@@ -16,8 +16,11 @@
   </tr>
   <tr>
     <td><a href="https://github.com/wendev21/Cursus_03ft_printf">Ft_printf🖨️</a></td>
-    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clldphalu001108l3n2nkf8rx/project/3168468" alt="wecorzo-'s 42 ft_printf Score" /></a>
-</td>
+    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clldphalu001108l3n2nkf8rx/project/3168468" alt="wecorzo-'s 42 ft_printf Score" /></a></td>
+</tr>
+<tr>
+    <td><a>Born2beroot💿</a></td>
+    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clldphalu001108l3n2nkf8rx/project/3168467" alt="wecorzo-'s 42 Born2beroot Score" /></a></td>
   </tr>
 </table>
 <h2>▪️ Github stats 📊</h2>

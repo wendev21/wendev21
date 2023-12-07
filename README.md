@@ -8,19 +8,19 @@
   </tr>
   <tr>
     <td><a href="https://github.com/wendev21/42Cursus_01libft">Libft📗</a></td>
-    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clldphalu001108l3n2nkf8rx/project/2932506" alt="wecorzo-'s 42 Libft Score" /></a></td>
+    <td>125</td>
   </tr>
   <tr>
     <td><a href="https://github.com/wendev21/42_Cursus_02GNL">GNL📝</a></td>
-    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clldphalu001108l3n2nkf8rx/project/3168466" alt="wecorzo-'s 42 get_next_line Score" /></a></td>
+    <td>114</td>
   </tr>
   <tr>
     <td><a href="https://github.com/wendev21/Cursus_03ft_printf">Ft_printf🖨️</a></td>
-    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clldphalu001108l3n2nkf8rx/project/3168468" alt="wecorzo-'s 42 ft_printf Score" /></a></td>
+    <td>100</td>
 </tr>
 <tr>
     <td><a>Born2beroot💿</a></td>
-    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clldphalu001108l3n2nkf8rx/project/3168467" alt="wecorzo-'s 42 Born2beroot Score" /></a></td>
+    <td>125</td>
   </tr>
 </table>
 <h2>▪️ Github stats 📊</h2>

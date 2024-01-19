@@ -23,7 +23,7 @@
     <td>125</td>
   </tr>
 <tr>
-    <td><a href="https://github.com/wendev21/Cursus_05Push_swap">Push_Swap</a></td>
+    <td><a href="https://github.com/wendev21/42_Cursus_05Push_swap">Push_Swap</a></td>
     <td>100</td>
 </tr>
 </table>

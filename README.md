@@ -30,6 +30,10 @@
     <td><a href="https://github.com/wendev21/42_Cursus_06MiniTalk">MiniTalk</a></td>
     <td>125</td>
 </tr>
+<tr>
+    <td><a href="https://github.com/wendev21/42_Cursus_07So_long">MiniTalk</a></td>
+    <td>..</td>
+</tr>
 </table>
 <h2>▪️ Github stats 📊</h2>
 <a href="https://github.com/wendev21" style="display: flex; align-items: center;justify-content: center; flex-wrap: wrap;">

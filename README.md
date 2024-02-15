@@ -31,7 +31,7 @@
     <td>125</td>
 </tr>
 <tr>
-    <td><a href="https://github.com/wendev21/42_Cursus_07So_long">MiniTalk</a></td>
+    <td><a href="https://github.com/wendev21/42_Cursus_07So_long">So_long</a></td>
     <td>..</td>
 </tr>
 </table>

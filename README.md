@@ -15,7 +15,7 @@
     <td>114</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/wendev21/Cursus_03ft_printf">Ft_printf🖨️</a></td>
+    <td><a href="https://github.com/wendev21/42Cursus_03ft_printf">Ft_printf🖨️</a></td>
     <td>100</td>
 </tr>
 <tr>

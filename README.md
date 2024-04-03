@@ -32,7 +32,7 @@
 </tr>
 <tr>
     <td><a href="https://github.com/wendev21/42_Cursus_07So_long">So_long</a></td>
-    <td>..</td>
+    <td>100</td>
 </tr>
 </table>
 <h2>▪️ Github stats 📊</h2>

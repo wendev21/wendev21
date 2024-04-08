@@ -35,7 +35,7 @@
     <td>100</td>
 </tr>
 <tr>
-    <td><a href="#">Philosophers</a></td>
+    <td><a href="https://github.com/wendev21/42_Cursus_08Philosophers">Philosophers</a></td>
     <td>..</td>
 </tr>
 </table>
